@@ -1,0 +1,34 @@
+html{
+    padding: none;
+    margin:none;
+    background-color: #10100e;
+}
+body {
+    width: 100%;
+    
+    background-color: #10100e;
+    font-family: 'Kanit', sans-serif;
+}
+header{
+    width: 100%;
+    background-color: #10100e;
+    
+}
+main{
+    width: 100%;
+    background-color: #10100e;
+}
+section{
+    width: 100%;
+    margin: auto;
+}
+
+.textomain {
+    color: beige;
+    text-align: center;
+}
+
+.col-lg-4 {
+    color: beige;
+    font-size: 26px;
+}
